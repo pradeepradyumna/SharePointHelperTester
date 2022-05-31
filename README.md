@@ -3,7 +3,7 @@
 * [SharePointHelper.Core.3.1](https://www.nuget.org/packages/SharePointHelper.Core.3.1/)
 
 
-I have built these packages to help you with a wrapper to do certain functionalities on SharePoint using C# .NET code which aren't directly available from [Microsoft.Graph](https://docs.microsoft.com/en-us/graph/overview) 
+I have built these packages to help you with a wrapper around [Microsoft.Graph](https://docs.microsoft.com/en-us/graph/overview) to do certain functionalities on SharePoint using C# .NET code easily  
 
 # Features supported 
 
