@@ -21,7 +21,7 @@ Downloads the file as `.docx` format and returns the download location
 *	`Task<DriveItem> CopyFile(AzureConfiguration configuration, string destinationUri, string destinationFileName, string sourceUri, string sourceFileName);` Copies source file by grabbing it from its `sourceUri` and `sourceFileName` to the destination location identified by its `destinationUri` 
 
 # Quickstarter
-You can just download the solution from this repository and make changes based on your needs
+You can just download the solution zip from this repository and make changes based on your needs
 
 # Usage
 
